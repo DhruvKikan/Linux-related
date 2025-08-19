@@ -7,4 +7,7 @@ https://www.reddit.com/r/archlinux/comments/13d7rec/setting_up_secure_boot_while
 https://burakberk.dev/complete-guide-enabling-secure-boot-with-linux-and-windows-dual-boot-setup/
 
 
+Setup transfer - 
+https://www.reddit.com/r/archlinux/comments/1mspkja/keeping_your_installed_packages_in_a_declarative/
+
 
