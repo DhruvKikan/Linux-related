@@ -8,6 +8,6 @@ https://burakberk.dev/complete-guide-enabling-secure-boot-with-linux-and-windows
 
 
 Setup transfer - 
-https://www.reddit.com/r/archlinux/comments/1mspkja/keeping_your_installed_packages_in_a_declarative/
+https://www.reddit.com/r/archlinux/comments/1mspkja/keeping_your_installed_packages_in_a_declarative/ main solutions - decpac, Pacmanfile, pacdef, decman, pcmn, aconfmgr, Pacman + scripts, Nix/NixOS
 
 
