@@ -6,3 +6,5 @@
 > 
 > Step 4: Profit??
 >
+> Step 5: Get help when something breaks OR when I need tips
+> 
