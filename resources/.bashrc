@@ -39,6 +39,7 @@ cleanSystem() {
 	# 3. Yay: Clean the package cache
 	# -Scc removes all cached packages not currently installed
 	echo "Cleaning package cache..."
+	sudo pacman -Scc
 	yay -Scc --noconfirm
 
 	# 4. View Installed Packages (Optional: log to a file)
