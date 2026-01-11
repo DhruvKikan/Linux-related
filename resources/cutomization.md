@@ -1,4 +1,10 @@
 
+GRUB is old now, use systemd
+
+
+
+
+
 GRUB customization (All the links I need to see) - 
 
 https://www.youtube.com/watch?v=Zr9oyWjD6IA
