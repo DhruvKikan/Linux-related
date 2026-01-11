@@ -49,6 +49,9 @@ cleanSystem() {
 	# 5. Disk Usage Analysis (Interactive - must be last)
 	echo "Launching ncdu for manual cleanup..."
 	ncdu / --exclude /media --exclude /run/timeshift
+	
+	# 6. Cleaning logs older than 2 weeks
+	sudo journalctl --vacuum-time=2weeks
 }
 
 alias ls='ls --color=auto'
